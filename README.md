@@ -1,2 +1,2 @@
 # NLP_learning
-record some points and cods
+record some points and codes
